@@ -1,0 +1,40 @@
+
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+
+.navbar-default {
+    background-color: #3D0F00;
+}
+
+#logo {
+	float: left;
+	margin: 20px;
+	border-color: black;
+}
+
+body {
+	padding: 80px;
+}
+
+.nav-item {
+	color: blue;
+	float: left;
+	margin-left: 25px;
+	margin-top: 20px;
+	border-color: black;
+}
+
+.center {
+	text-align: center;
+}
+
+.left {
+	text-align: left;
+	letter-spacing: .5px;
+}
+
+.footer {
+	margin-top: 25px;
+	border-top: 1px solid #eaeaea;
+	color: #777;
+}
